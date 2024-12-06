@@ -9,14 +9,14 @@ Priyanka-5:
 - Swagata (1)
 - Manish (1)
 - Ravi (1)
-- Grihit (1)
 - Mitasha (1)
+- Mandar (1)
 
 Manish-5:
 - Swagata (1)
 - Priyanka (1)
-- Sahil (1)
 - Chandra (1)
+- Grihit (1)
 - Nagendra (1)
 
 Ravi-4:
@@ -87,8 +87,10 @@ Grihit-4:
 - Nagendra (1)
 
 Mandar-5:
+- Priyanka (1)
 - Shadyaab (1)
 - Avneet (1)
 - Preethi (1)
 - Nagendra (1)
-- Mitasha (1)
+
+Would you like me to verify the constraints again?​​​​​​​​​​​​​​​​

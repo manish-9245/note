@@ -1,0 +1,94 @@
+Swagata-5: 
+- Priyanka (1)
+- Manish (1)
+- Ravi (1)
+- Sahil (1)
+- Shatabda (1)
+
+Priyanka-5:
+- Swagata (1)
+- Manish (1)
+- Ravi (1)
+- Grihit (1)
+- Mitasha (1)
+
+Manish-5:
+- Swagata (1)
+- Priyanka (1)
+- Sahil (1)
+- Chandra (1)
+- Nagendra (1)
+
+Ravi-4:
+- Swagata (1)
+- Priyanka (1)
+- Sahil (1)
+- Grihit (1)
+
+Sahil-4:
+- Swagata (1)
+- Manish (1)
+- Ravi (1)
+- Shatabda (1)
+
+Shatabda-5:
+- Swagata (1)
+- Sahil (1)
+- Shadyaab (1)
+- Avneet (1)
+- Preethi (1)
+
+Chandra-5:
+- Manish (1)
+- Shadyaab (1)
+- Mitasha (1)
+- Avneet (1)
+- Nagendra (1)
+
+Shadyaab-5:
+- Shatabda (1)
+- Chandra (1)
+- Mitasha (1)
+- Preethi (1)
+- Mandar (1)
+
+Mitasha-5:
+- Priyanka (1)
+- Chandra (1)
+- Shadyaab (1)
+- Avneet (1)
+- Grihit (1)
+
+Avneet-5:
+- Shatabda (1)
+- Chandra (1)
+- Mitasha (1)
+- Preethi (1)
+- Mandar (1)
+
+Preethi-5:
+- Shatabda (1)
+- Shadyaab (1)
+- Avneet (1)
+- Nagendra (1)
+- Mandar (1)
+
+Nagendra-5:
+- Manish (1)
+- Chandra (1)
+- Preethi (1)
+- Grihit (1)
+- Mandar (1)
+
+Grihit-4:
+- Ravi (1)
+- Priyanka (1)
+- Mitasha (1)
+- Nagendra (1)
+
+Mandar-5:
+- Shadyaab (1)
+- Avneet (1)
+- Preethi (1)
+- Nagendra (1)
+- Mitasha (1)
